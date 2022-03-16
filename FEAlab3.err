@@ -1,0 +1,149 @@
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       22:02:41
+
+ *** ERROR ***                           CP =       7.312   TIME= 22:20:02
+ Unable to create primitive with 0 width.  BLC4 command is ignored.      
+
+ *** ERROR ***                           CP =      11.609   TIME= 22:34:01
+ The input areas do not meet the conditions required for the AGLU        
+ operation.  No new entities were created.  The AOVLAP operation is a    
+ possible alternative.                                                   
+
+ *** ERROR ***                           CP =      12.266   TIME= 22:35:54
+ The input areas do not meet the conditions required for the AGLU        
+ operation.  No new entities were created.  The AOVLAP operation is a    
+ possible alternative.                                                   
+
+ *** ERROR ***                           CP =      13.625   TIME= 22:37:21
+ The input areas do not meet the conditions required for the AGLU        
+ operation.  No new entities were created.  The AOVLAP operation is a    
+ possible alternative.                                                   
+
+ *** ERROR ***                           CP =      22.891   TIME= 23:13:44
+ Area list to be subtracted is empty.                                    
+
+ *** WARNING ***                         CP =      26.656   TIME= 23:21:40
+ No constraints have been defined using the D command.                   
+
+ *** ERROR ***                           CP =      27.859   TIME= 23:21:56
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 38).  Please check for an insufficiently      
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      29.219   TIME= 23:23:29
+ No constraints have been defined using the D command.                   
+
+ *** ERROR ***                           CP =      30.422   TIME= 23:23:51
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 38).  Please check for an insufficiently      
+ constrained model.                                                      
+
+ *** ERROR ***                           CP =      31.172   TIME= 23:25:43
+ An error occurred while attempting to open the results file             
+ FEAlab3.rst.                                                            
+
+ *** ERROR ***                           CP =      31.219   TIME= 23:25:51
+ No results file available.                                              
+
+ *** ERROR ***                           CP =      31.469   TIME= 23:26:13
+ An error occurred while attempting to open the results file             
+ FEAlab3.rst.                                                            
+
+ *** ERROR ***                           CP =      31.516   TIME= 23:26:16
+ No results file available.                                              
+
+ *** ERROR ***                           CP =      31.750   TIME= 23:26:46
+ An error occurred while attempting to open the results file             
+ FEAlab3.rst.                                                            
+
+ *** ERROR ***                           CP =      31.797   TIME= 23:26:55
+ No results file available.                                              
+
+ *** WARNING ***                         CP =      32.766   TIME= 23:32:32
+ Some of the requested areas to be subtracted were also included in the  
+ selected set to be operated on.  These areas have been removed from     
+ the area to be operated on list.                                        
+
+ *** ERROR ***                           CP =      32.781   TIME= 23:32:33
+ Area 7 has already been meshed and can not be operated on by the ASBA   
+ command.  The command is ignored.  Please clear the mesh and issue the  
+ command again.                                                          
+
+ *** WARNING ***                         CP =      33.391   TIME= 23:38:59
+ Some of the requested areas to be subtracted were also included in the  
+ selected set to be operated on.  These areas have been removed from     
+ the area to be operated on list.                                        
+
+ *** ERROR ***                           CP =      33.422   TIME= 23:39:00
+ Area 7 has already been meshed and can not be operated on by the ASBA   
+ command.  The command is ignored.  Please clear the mesh and issue the  
+ command again.                                                          
+
+ *** WARNING ***                         CP =      35.844   TIME= 23:41:29
+ Some of the requested areas to be subtracted were also included in the  
+ selected set to be operated on.  These areas have been removed from     
+ the area to be operated on list.                                        
+
+ *** ERROR ***                           CP =      35.906   TIME= 23:41:30
+ Area 1 has already been meshed and can not be operated on by the ASBA   
+ command.  The command is ignored.  Please clear the mesh and issue the  
+ command again.                                                          
+
+ *** ERROR ***                           CP =      37.719   TIME= 23:42:55
+ This function requires defined volumes.                                 
+  No volumes are currently defined.                                      
+
+ *** WARNING ***                         CP =      38.219   TIME= 23:43:54
+ Some of the requested areas to be subtracted were also included in the  
+ selected set to be operated on.  These areas have been removed from     
+ the area to be operated on list.                                        
+
+ *** WARNING ***                         CP =      40.781   TIME= 23:47:12
+ No constraints have been defined using the D command.                   
+
+ *** ERROR ***                           CP =      42.094   TIME= 23:47:23
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 357).  Please check for an insufficiently     
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      43.844   TIME= 23:49:19
+ No constraints have been defined using the D command.                   
+
+ *** ERROR ***                           CP =      44.719   TIME= 23:49:29
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 357).  Please check for an insufficiently     
+ constrained model.                                                      
+
+ *** ERROR ***                           CP =      46.250   TIME= 23:51:25
+ No degree of freedom labels specified on the DK command.                
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       22:02:12
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       22:46:38
+
+ *** WARNING ***                         CP =      12.281   TIME= 23:01:30
+ The EPLO command cannot be executed.  The selected elements cannot be   
+ displayed by PowerGraphics.  To correct this situation, select          
+ different elements or turn off PowerGraphics.                           
+
+ *** ERROR ***                           CP =      12.375   TIME= 23:01:56
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+
+ *** ERROR ***                           CP =      12.391   TIME= 23:01:57
+ An unexpected error ( SIG$SEGV ) has occurred...  ANSYS internal data   
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       23:02:13
+
+ *** ERROR ***                           CP =       4.297   TIME= 23:04:17
+ Element type 1 cannot be deleted while elements of this type exist.     
+ The ETDELE command is ignored.                                          
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       23:09:55
+
+ *** WARNING ***                         CP =       9.484   TIME= 23:29:48
+ Some of the requested areas to be subtracted were also included in the  
+ selected set to be operated on.  These areas have been removed from     
+ the area to be operated on list.                                        

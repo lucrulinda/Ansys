@@ -1,0 +1,12 @@
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       17:13:02
+
+ *** WARNING ***                         CP =      19.672   TIME= 18:58:30
+ The location 0 is outside the range of 1 to 9999.  The ETABLE command   
+ is ignored.                                                             
+
+ *** ERROR ***                           CP =      25.844   TIME= 19:10:04
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
